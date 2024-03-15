@@ -1,5 +1,5 @@
 # Sentiment-Analysis of Youtube Comment
-### This project focuses on sentiment analysis of YouTube comments using the YouTube API for data extraction. It involves preprocessing and engineering features, followed by implementing an LSTM model using TensorFlow in a Jupyter Notebook environment. NLTK (Natural Language Toolkit) was utilized for natural language processing tasks. The goal was to create a robust model capable of accurately predicting sentiment in YouTube comments.
+This project focuses on sentiment analysis of YouTube comments using the YouTube API for data extraction. It involves preprocessing and engineering features, followed by implementing an LSTM model using TensorFlow in a Jupyter Notebook environment. NLTK (Natural Language Toolkit) was utilized for natural language processing tasks. The goal was to create a robust model capable of accurately predicting sentiment in YouTube comments.
 
 ## Project Structure
 The project is organized into several main components:
